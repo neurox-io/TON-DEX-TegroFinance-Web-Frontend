@@ -27,7 +27,7 @@
     "i18next-browser-languagedetector": "^6.1.8",
     "i18next-http-backend": "^1.4.5",
     "int-encoder": "^1.1.1",
-    "io-ts": "^2.2.20",
+    "io-ts": "^2.2.22",
     "io-ts-reporters": "^2.0.1",
     "nprogress": "^0.2.0",
     "qr-code-styling": "^1.6.0-rc.1",
